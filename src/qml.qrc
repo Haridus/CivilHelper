@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Intro.qml</file>
+        <file>qml/MapComponent.qml</file>
+        <file>qml/Myself.qml</file>
+        <file>qml/MapButton.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/AskForHelpRequestDataPage.qml</file>
+        <file>qml/LoginPage.qml</file>
+        <file>qml/ProfilePage.qml</file>
+        <file>qml/RegistratePage.qml</file>
+        <file>qml/SettingsPage.qml</file>
+        <file>qml/RestorePasswordPage.qml</file>
+        <file>qml/SearchAnimation.qml</file>
+        <file>qml/RequestOptionsPage.qml</file>
+        <file>qml/MapRequestItem.qml</file>
+        <file>qml/CategoriesView.qml</file>
+        <file>qml/HelperSearchOptionsPage.qml</file>
+        <file>qml/CategoriesModel.qml</file>
+        <file>qml/Target.qml</file>
+        <file>qml/AboutPage.qml</file>
+        <file>qml/HelpPage.qml</file>
+        <file>qml/CountryPhoneCodesModel.qml</file>
+        <file>qml/Message.qml</file>
+    </qresource>
+</RCC>
